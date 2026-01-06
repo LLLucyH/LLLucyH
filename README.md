@@ -4,8 +4,8 @@
 Hi! I’m Lucy, a data analyst and aspiring AI-driven professional with a strong foundation in business analytics, finance, and machine learning. I enjoy transforming complex data into actionable insights and building intelligent systems that improve decision-making at scale. My interests lie at the intersection of data, finance, and applied AI.
 
 ### 🔧 Technical Skills
-- **Programming Languages:** `Python`, `SQL`, `R`
-- **Data & ML:** `Pandas`, `NumPy`, `Scikit-learn`,`Pytorch`, `XGBoost`, `Time Series (ARIMA, VAR)`, `Regression`, `Classification`, `Clustering`
+- **Programming Languages:** `Python`, `SQL`, `R`, `Shell Scripting`
+- **Data & ML:** `Pandas`, `NumPy`, `Scikit-learn`, `Pytorch`, `XGBoost`, `Time Series (ARIMA, VAR)`, `Regression`, `Classification`, `Clustering`
 - **Analytics & BI Tools:** `Power BI`, `Tableau`, `Excel`
 - **Technologies:** `Generative AI (LLMs)`, `ETL Pipelines`, `Data Modeling`, `APIs`
 - **Methodologies:** Data Wrangling, Data Validation, Statistical Analysis, Predictive Modeling, Data Storytelling
